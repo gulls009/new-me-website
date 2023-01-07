@@ -7,7 +7,7 @@
 /* Banner Section */
 
 header {
-    background-image: url(/images/banner/banner3.png);
+    background-image: url(./images/banner/banner3.png);
     background-size: cover;
     height: 800px;
 
@@ -124,7 +124,7 @@ header {
 /* Grading */
 
 .grading {
-    background-image: linear-gradient(to left, rgba(255, 255, 255, 0.267), rgba(177, 67, 149, 0.73)), url(/images/watch.png);
+    background-image: linear-gradient(to left, rgba(255, 255, 255, 0.267), rgba(177, 67, 149, 0.73)), url(./images/watch.png);
 
     width: 1150x;
     height: 300px;
